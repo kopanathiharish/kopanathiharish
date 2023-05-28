@@ -29,11 +29,7 @@
 <h4>As we reinvent possibilities and mould the future one line at a time, come along on this exhilarating trip with me.</h4>
 
 <br>
-<h4>I am a devoted software developer who is passionate about coding and motivated by a desire to solve problems. I thrive on translating difficult ideas into elegant solutions because of my strong background in computer science and years of practical experience.</h4>
-<h4>The variety of projects on my GitHub profile demonstrate my proficiency with a range of programming languages and frameworks. To guarantee that my work continues to be creative and effective, I am continuously learning new things and keeping up with the most recent trends in the field.</h4>
 
-<h4>I'm a collaborative person by nature, and I value giving back to the development community. I also believe in the power of open source. Let's use coding to communicate, work together, and have constructive influence.
-</h4>
 <!--
 **kopanathiharish/kopanathiharish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
